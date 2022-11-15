@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values": [
+    "radiantgems:rose_quartz_gem",
+    "radiantgems:sapphire_gem",
+    "radiantgems:amethyst_gem",
+    "radiantgems:ruby_gem",
+    "radiantgems:aquamarine_gem"
+  ]
+}

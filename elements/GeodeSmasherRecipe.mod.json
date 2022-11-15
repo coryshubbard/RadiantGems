@@ -1,0 +1,46 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "geode_smasher",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "TAG:minecraft:wooden_fences"
+      },
+      {
+        "value": "CUSTOM:Hammer"
+      },
+      {
+        "value": "TAG:minecraft:wooden_fences"
+      },
+      {
+        "value": "TAG:minecraft:wooden_fences"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "TAG:minecraft:wooden_fences"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      },
+      {
+        "value": "Blocks.PLANKS"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:GeodeSmasher"
+    },
+    "name": "geode_smasher_recipe",
+    "namespace": "mod"
+  }
+}

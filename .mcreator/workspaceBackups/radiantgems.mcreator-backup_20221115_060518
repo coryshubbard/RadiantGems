@@ -1,0 +1,195 @@
+{
+  "mod_elements": [
+    {
+      "name": "RadiantTab",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radiant_tab"
+    },
+    {
+      "name": "Geode",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geode"
+    },
+    {
+      "name": "AmethystGem",
+      "type": "item",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "amethyst_gem"
+    },
+    {
+      "name": "AquamarineGem",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aquamarine_gem"
+    },
+    {
+      "name": "RubyGem",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ruby_gem"
+    },
+    {
+      "name": "SapphireGem",
+      "type": "item",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "sapphire_gem"
+    },
+    {
+      "name": "RoseQuartzGem",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "rose_quartz_gem"
+    },
+    {
+      "name": "RadiantGems",
+      "type": "tag",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radiant_gems"
+    },
+    {
+      "name": "RadiantOres",
+      "type": "tag",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "radiant_ores"
+    },
+    {
+      "name": "Hammer",
+      "type": "item",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer"
+    },
+    {
+      "name": "HammerRecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "hammer_recipe"
+    },
+    {
+      "name": "GeodeSmasher",
+      "type": "block",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "geode_smasher"
+    },
+    {
+      "name": "Smashing",
+      "type": "procedure",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "smashing",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "x",
+            "type": "number"
+          },
+          {
+            "name": "y",
+            "type": "number"
+          },
+          {
+            "name": "z",
+            "type": "number"
+          },
+          {
+            "name": "world",
+            "type": "world"
+          }
+        ]
+      }
+    },
+    {
+      "name": "HammerGUI",
+      "type": "gui",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geode_smasher_gui"
+    },
+    {
+      "name": "GeodeSmasherRecipe",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "geode_smasher_recipe"
+    }
+  ],
+  "variable_elements": [
+    {
+      "name": "GS",
+      "type": "itemstack",
+      "scope": "map",
+      "value": "ItemStack.EMPTY"
+    },
+    {
+      "name": "RandomGem",
+      "type": "number",
+      "scope": "map",
+      "value": "0"
+    }
+  ],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.radiantgems.ruby_gem": "Ruby Gem",
+      "item.radiantgems.hammer": "Hammer",
+      "item.radiantgems.aquamarine_gem": "Aquamarine Gem",
+      "block.radiantgems.geode_smasher": "Geode Smasher",
+      "item.radiantgems.amethyst_gem": "Amethyst Gem",
+      "block.radiantgems.geode": "Geode",
+      "itemGroup.tabradiant_tab": "Radiant Tab",
+      "item.radiantgems.sapphire_gem": "Sapphire Gem",
+      "item.radiantgems.rose_quartz_gem": "Rose Quartz Gem"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "radiantgems",
+    "modName": "RadiantGems",
+    "version": "1.0.0",
+    "author": "coryhubbard, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "forge-1.19.2",
+    "credits": "Created using mod maker MCreator - https://mcreator.net/about",
+    "modElementsPackage": "net.coryhubbard.radiantgems",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200346416
+}

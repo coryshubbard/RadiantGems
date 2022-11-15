@@ -1,0 +1,57 @@
+{
+  "variants": {
+    "face=floor,facing=north": {
+      "model": "radiantgems:block/geode_smasher"
+    },
+    "face=floor,facing=east": {
+      "model": "radiantgems:block/geode_smasher",
+      "y": 90
+    },
+    "face=floor,facing=south": {
+      "model": "radiantgems:block/geode_smasher",
+      "y": 180
+    },
+    "face=floor,facing=west": {
+      "model": "radiantgems:block/geode_smasher",
+      "y": 270
+    },
+    "face=wall,facing=north": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 90
+    },
+    "face=wall,facing=east": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 90,
+      "y": 90
+    },
+    "face=wall,facing=south": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 90,
+      "y": 180
+    },
+    "face=wall,facing=west": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 90,
+      "y": 270
+    },
+    "face=ceiling,facing=north": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 180,
+      "y": 180
+    },
+    "face=ceiling,facing=east": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 180,
+      "y": 270
+    },
+    "face=ceiling,facing=south": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 180
+    },
+    "face=ceiling,facing=west": {
+      "model": "radiantgems:block/geode_smasher",
+      "x": 180,
+      "y": 90
+    }
+  }
+}

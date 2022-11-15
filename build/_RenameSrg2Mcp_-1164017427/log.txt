@@ -1,0 +1,15 @@
+Java Launcher: /Users/coryhubbard/Desktop/MCreator.app/Contents/MacOS/jdk/Contents/Home/bin/java
+Arguments: '--task, SRG_TO_MCP, --input, /Users/coryhubbard/.mcreator/gradle/caches/modules-2/files-2.1/software.bernie.geckolib/geckolib-forge-1.19/3.1.37/ba54955871f254648dd42d26e16b3e45e89f28c6/geckolib-forge-1.19-3.1.37.jar, --output, /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/deobf_dependencies/software/bernie/geckolib/geckolib-forge-1.19/3.1.37_mapped_official_1.19.2/geckolib-forge-1.19-3.1.37_mapped_official_1.19.2.jar, --mcp, /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.19.2/mapping-1.19.2-mapping.zip, --strip-signatures'
+Classpath:
+ - /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/installertools/1.3.2/installertools-1.3.2-fatjar.jar
+Working directory: /Users/coryhubbard/MCreatorWorkspaces/radiantgems/build/_RenameSrg2Mcp_-1164017427
+Main class: net.minecraftforge.installertools.ConsoleTool
+====================================
+Task: SRG_TO_MCP
+Input:  /Users/coryhubbard/.mcreator/gradle/caches/modules-2/files-2.1/software.bernie.geckolib/geckolib-forge-1.19/3.1.37/ba54955871f254648dd42d26e16b3e45e89f28c6/geckolib-forge-1.19-3.1.37.jar
+Output: /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/deobf_dependencies/software/bernie/geckolib/geckolib-forge-1.19/3.1.37_mapped_official_1.19.2/geckolib-forge-1.19-3.1.37_mapped_official_1.19.2.jar
+MCP:    /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/mcp_repo/net/minecraft/mapping/1.19.2/mapping-1.19.2-mapping.zip
+Loading MCP Data
+Processing ZIP file
+Stripped Manifest of sha digests
+Process complete

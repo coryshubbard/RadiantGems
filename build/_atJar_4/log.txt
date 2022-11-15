@@ -1,0 +1,7 @@
+Java Launcher: /private/var/folders/z4/yl2q9bdn60l06byx8pflfllh0000gn/T/AppTranslocation/584C1B94-42EA-44A7-B4E2-085C5E9840CC/d/MCreator.app/Contents/MacOS/jdk/Contents/Home/bin/java
+Arguments: '--inJar, /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.2-43.1.47/forge-1.19.2-43.1.47-injected.jar, --outJar, /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/minecraft_user_repo/net/minecraftforge/forge/1.19.2-43.1.47_mapped_official_1.19.2/forge-1.19.2-43.1.47_mapped_official_1.19.2.jar, --logFile, accesstransform.log, --atFile, /Users/coryhubbard/MCreatorWorkspaces/radiantgems/build/_atJar_4/parent_at.cfg'
+Classpath:
+ - /Users/coryhubbard/.mcreator/gradle/caches/forge_gradle/maven_downloader/net/minecraftforge/accesstransformers/8.0.7/accesstransformers-8.0.7-fatjar.jar
+Working directory: /Users/coryhubbard/MCreatorWorkspaces/radiantgems/build/_atJar_4
+Main class: net.minecraftforge.accesstransformer.TransformerProcessor
+====================================
